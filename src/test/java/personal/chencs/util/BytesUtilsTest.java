@@ -92,7 +92,6 @@ public class BytesUtilsTest {
         for (int i = 0; i < 10; i++) {
             System.out.println(Hex.encode(BytesUtils.random(4)));
         }
-
     }
 
 }
